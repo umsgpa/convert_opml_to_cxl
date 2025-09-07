@@ -2,6 +2,8 @@
 
 A PowerShell script that converts hierarchical OPML (Outline Processor Markup Language) files into CXL concept maps compatible with CMapTools.
 
+> Want to know the story behind this tool? Read on to discover why it was developed: [When AI Becomes the Curator of Corporate Knowledge: From Transcription to "Vibe Coding"](https://www.linkedin.com/pulse/when-ai-becomes-curator-corporate-knowledge-from-vibe-pancani-ccfaf/)
+
 ## Table of Contents
 
 - [Overview](#overview)
